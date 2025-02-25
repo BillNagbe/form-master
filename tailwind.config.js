@@ -2,7 +2,7 @@ module.exports = {
     theme: {
       extend: {
         colors: {
-          "red": "var(--red)",
+          "red": "hsl(0, 100%, 74%)",
           "green": "var(--green)",
           "lite-blue": "var(--lite-blue)",
           "drk-blue": "var(--drk-blue)",
